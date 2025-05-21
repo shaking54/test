@@ -1,7 +1,7 @@
 <div style="background-color: #f0f8ff; padding: 12px; border-radius: 8px;">
 
-# 📘 <b style="color: #000000;">Section 0</b>  
-## 🎯 <b style="color: #000000;">Title: Stable Diffusion Setup & Overview</b>  
+# 📘 Section 0  
+## 🎯 Title: Stable Diffusion Setup & Overview  
 <span style="color: #000000;">
 <b>🕒 From - To:</b> <b style="color: #000000;">`00:00:00 - 00:00:36`</b>
 </span>
@@ -10,7 +10,7 @@
 
 ### 🔍 Summary  
 <span style="color: #000000; font-size: 16px;">
-<b style="color: #000000;">This section provides a guide on setting up Stable Diffusion locally</b>, highlighting its benefits over Google Colab, especially for users with discrete graphics cards. It explains the importance of choosing the right model, recommending SDXL for its availability of LORAs, which enhance image generation. The document also introduces LORAs, comparing them to recipes that guide models to produce specific styles, and offers practical steps for using them effectively.
+<b style="color: #000000;">This document provides a guide on setting up Stable Diffusion locally, highlighting its benefits over Google Colab, especially for users with discrete graphics cards. It recommends using the SDXL model for its availability of LORAs, which enhance image generation. The document explains LORAs as guidelines that improve model output, using an analogy of a chef and a recipe to illustrate their function. It also offers a step-by-step example of generating pixel art and addresses common issues like seamless texture generation, suggesting solutions like procedural stochastic shaders. Alternatives like Tensor.Art and Flux AI are recommended for those not wanting to run Stable Diffusion locally.</b>
 </span>
 
 ---
@@ -36,7 +36,7 @@
 
 ### 🔍 Summary  
 <span style="color: #bfbfbf; font-size: 16px;">
-This section explores the practical use of LORAs for generating specific content like pixel art and 3D textures. It provides a step-by-step guide on using SDXL 1.0 with a pixel art XL LORA, and addresses AI's limitations in creating seamless textures, suggesting procedural stochastic shaders as a solution. The document emphasizes LORAs' role in guiding models to produce specific styles without learning new approaches, and offers alternatives like Tensor.Art and Flux AI for those not using Stable Diffusion locally.
+This document explores the practical use of LORAs and models for generating specific content like pixel art and 3D textures. It provides a step-by-step guide on using SDXL 1.0 with a pixel art XL LORA, and addresses common AI issues like seamless texture generation, suggesting procedural stochastic shaders as a solution. The document emphasizes LORAs' role in guiding models to produce specific styles without learning new approaches, and offers practical examples for handling unexpected situations. Alternatives like Tensor.Art and Flux AI are recommended for those not wanting to run Stable Diffusion locally. The document uses an analogy of a chef and a recipe to explain LORAs' function.
 </span>
 
 ---
@@ -62,7 +62,7 @@ This document delves into the practical application of LORAs and models for gene
 
 ### 🔍 Summary  
 <span style="color: #bfbfbf; font-size: 16px;">
-This section discusses creating game assets like Sprite sheets and 3D models using AI. It suggests using 3D humanoid models with AI-generated animations for Sprite sheets, applying pixelation effects for better results. The document recommends tools like sl.ai and Meshy for 3D models, and Mixamo for animations, highlighting AI's limitations and offering solutions like AI motion capture and text-to-animation technology.
+This document discusses AI's role in creating game assets like Sprite sheets and 3D models. It suggests using a 3D humanoid model with AI-generated animations for Sprite sheets, applying pixelation effects for better results. The document recommends sl.ai and Meshy for 3D models, and Rodin AI for avatars, highlighting their suitability for different game types. It also covers animation generation, suggesting Mixamo for auto-rigging and AI motion capture for converting videos to animations. The document uses a chef-recipe analogy to explain LORAs' role in guiding models without learning new approaches.
 </span>
 
 ---
@@ -88,7 +88,7 @@ This document focuses on the practical application of AI for generating game ass
 
 ### 🔍 Summary  
 <span style="color: #bfbfbf; font-size: 16px;">
-This section provides insights into generating game assets, focusing on Sprite sheets and 3D models. It suggests using 3D humanoid models with AI-generated animations for Sprite sheets, applying pixelation effects for better results. The document recommends tools like sl.ai and Meshy for 3D models, and Mixamo for animations, highlighting AI's limitations and offering solutions like AI motion capture and text-to-animation technology.
+This document focuses on generating game assets, particularly Sprite sheets and 3D models, using AI. It suggests using a 3D humanoid model with AI-generated animations for Sprite sheets, applying pixelation effects for better results. The document recommends sl.ai and Meshy for 3D models, and Rodin AI for avatars, highlighting their suitability for different game types. It also covers animation generation, suggesting Mixamo for auto-rigging and AI motion capture for converting videos to animations. The document uses a chef-recipe analogy to explain LORAs' role in guiding models without learning new approaches.
 </span>
 
 ---
@@ -114,7 +114,7 @@ This document focuses on the generation of game assets, specifically addressing 
 
 ### 🔍 Summary  
 <span style="color: #bfbfbf; font-size: 16px;">
-This section discusses generating game assets, focusing on Sprite sheets and 3D models. It suggests using 3D humanoid models with AI-generated animations for Sprite sheets, applying pixelation effects for better results. The document recommends tools like sl.ai and Meshy for 3D models, and Mixamo for animations, highlighting AI's limitations and offering solutions like AI motion capture and text-to-animation technology.
+This document focuses on generating game assets, particularly Sprite sheets and 3D models, using AI. It suggests using a 3D humanoid model with AI-generated animations for Sprite sheets, applying pixelation effects for better results. The document recommends sl.ai and Meshy for 3D models, and Rodin AI for avatars, highlighting their suitability for different game types. It also covers animation generation, suggesting Mixamo for auto-rigging and AI motion capture for converting videos to animations. The document uses a chef-recipe analogy to explain LORAs' role in guiding models without learning new approaches.
 </span>
 
 ---
