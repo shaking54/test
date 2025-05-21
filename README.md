@@ -8,7 +8,7 @@
 
 ### 🔍 Summary  
 <span style="color: gray; font-size: 16px;">
-This section provides a comprehensive guide to setting up and using Stable Diffusion for image generation, emphasizing the benefits of local installation over Google Colab. It highlights the advantages for users with discrete graphics cards and recommends using the SDXL model for its availability of LORAs. The document explains LORAs as guidelines that enhance image generation, using an analogy of a chef and a recipe to illustrate their function. It also offers practical steps for implementing LORAs and addresses common issues in texture generation, suggesting solutions like procedural stochastic shaders.
+This document provides a guide to setting up Stable Diffusion for image generation, emphasizing local installation over Google Colab. It highlights the benefits for users with discrete graphics cards and recommends using SDXL for its availability of LORAs. LORAs are explained as guidelines that enhance image generation, with an analogy comparing models to chefs and LORAs to recipes. The document also covers generating pixel art and 3D textures, suggesting solutions for seamless textures and recommending alternatives like Tensor.Art and Flux AI.
 </span>
 
 ---
@@ -32,7 +32,7 @@ This document provides a comprehensive guide to setting up and utilizing Stable 
 
 ### 🔍 Summary  
 <span style="color: gray; font-size: 16px;">
-This section delves into the practical application of LORAs and models for generating specific content like pixel art and 3D textures. It provides a step-by-step guide on using SDXL 1.0 with a pixel art XL LORA and addresses common issues in texture generation, suggesting procedural stochastic shaders as a solution. The document emphasizes the importance of LORAs in guiding models to produce specific styles without learning new approaches and offers practical examples for handling unexpected situations.
+This document explores the practical use of LORAs and models for generating content like pixel art and 3D textures. It provides a step-by-step guide for using SDXL 1.0 with a pixel art XL LORA and addresses AI's limitations in creating seamless textures, suggesting procedural stochastic shaders as a solution. The document emphasizes LORAs' role in guiding models to produce specific styles without learning new approaches and offers practical examples for handling AI-generated texture issues. Alternatives like Tensor.Art and Flux AI are recommended for those not using Stable Diffusion locally.
 </span>
 
 ---
@@ -56,7 +56,7 @@ This document delves into the practical application of LORAs and models for gene
 
 ### 🔍 Summary  
 <span style="color: gray; font-size: 16px;">
-This section focuses on generating game assets, specifically Sprite sheets and 3D models. It discusses AI limitations in Sprite sheet generation and suggests using a 3D humanoid model with AI-generated animations as a workaround. The document highlights the benefits of AI pixelation effects over traditional software and provides recommendations for generating 3D models and animations, including using sl.ai, Meshy, and Mixamo.
+This document discusses AI's role in creating game assets, focusing on Sprite sheets and 3D models. It suggests using 3D humanoid models with AI-generated animations for Sprite sheets, applying pixelation effects for better results. Recommendations for 3D model generation include sl.ai for low-poly games and Meshy for detailed models. The document also covers animation generation, recommending Mixamo for auto-rigging and AI motion capture for converting videos to animations. Text-to-animation technology is mentioned as needing further development.
 </span>
 
 ---
@@ -80,7 +80,7 @@ This document focuses on the practical application of AI for generating game ass
 
 ### 🔍 Summary  
 <span style="color: gray; font-size: 16px;">
-This section provides detailed instructions on generating game assets, focusing on Sprite sheets and 3D models. It suggests using a 3D humanoid model with AI-generated animations for Sprite sheets and highlights the superiority of AI pixelation effects. Recommendations for 3D model generation include sl.ai for low-poly games and Meshy for detailed models. The document also discusses animation generation using Mixamo and AI motion capture.
+This document focuses on generating game assets, particularly Sprite sheets and 3D models. It suggests using 3D humanoid models with AI-generated animations for Sprite sheets, applying pixelation effects for better results. Recommendations for 3D model generation include sl.ai for low-poly games and Meshy for detailed models. The document also covers animation generation, recommending Mixamo for auto-rigging and AI motion capture for converting videos to animations. Text-to-animation technology is mentioned as needing further development.
 </span>
 
 ---
@@ -104,7 +104,7 @@ This document focuses on the generation of game assets, specifically addressing 
 
 ### 🔍 Summary  
 <span style="color: gray; font-size: 16px;">
-This section addresses the creation of game assets, focusing on Sprite sheets and 3D models. It suggests using a 3D humanoid model with AI-generated animations for Sprite sheets and highlights the benefits of AI pixelation effects. Recommendations for 3D model generation include sl.ai for low-poly games and Meshy for detailed models. The document also discusses animation generation using Mixamo and AI motion capture, noting the need for further development in text-to-animation technology.
+This document focuses on generating game assets, particularly Sprite sheets and 3D models. It suggests using 3D humanoid models with AI-generated animations for Sprite sheets, applying pixelation effects for better results. Recommendations for 3D model generation include sl.ai for low-poly games and Meshy for detailed models. The document also covers animation generation, recommending Mixamo for auto-rigging and AI motion capture for converting videos to animations. Text-to-animation technology is mentioned as needing further development.
 </span>
 
 ---
@@ -115,5 +115,3 @@ This document focuses on the generation of game assets, specifically addressing 
 </span>
 
 </div>
-
----
