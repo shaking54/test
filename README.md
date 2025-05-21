@@ -1,5 +1,3 @@
----
-
 <div style="background-color: #f0f8ff; padding: 12px; border-radius: 8px;">
 
 # 📘 Section 0  
